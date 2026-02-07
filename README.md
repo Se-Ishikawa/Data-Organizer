@@ -43,9 +43,9 @@ machine-readable, analysis-ready datasets.
 ---
 ## Folder structure
 project folder/
-├─ Data Organizer.py
-├─ DATA_FOLDER/ # Input data
-└─ OUTPUT/ # Auto-generated output
+-├─ Data Organizer.py
+-├─ DATA_FOLDER/ # Input data
+-└─ OUTPUT/ # Auto-generated output
 
 
 ---
